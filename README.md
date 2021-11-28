@@ -10,7 +10,7 @@
 3. Data Visualization
 - Make a dynamic data visualization for- frequency of words used in the item description (basis insights derived in 
  point 2 above) through Tableau/Power Bi.
- [PowerBI dynamic visualization link](https://public.tableau.com/app/profile/muskan.roy/viz/word_frequency/Sheet1)
+ [Tableau dynamic visualization link](https://public.tableau.com/app/profile/muskan.roy/viz/word_frequency/Sheet1)
 
 4. Sentiment analysis on Feedback
 Raw Dataset "Data.xlsx" that contains various value , feedback , ratings, item name , item quantity.
